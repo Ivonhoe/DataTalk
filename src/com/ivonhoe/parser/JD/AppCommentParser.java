@@ -1,5 +1,7 @@
+/*
 package com.ivonhoe.parser.JD;
 
+import com.ivonhoe.parser.JD.nouse.SimpleCommentParserFactory;
 import com.ivonhoe.parser.JD.unit.AppCommentUnit;
 
 import java.io.FileWriter;
@@ -41,3 +43,4 @@ public class AppCommentParser {
         }
     }
 }
+*/

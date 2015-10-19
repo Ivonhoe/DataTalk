@@ -9,6 +9,7 @@ public class StyleItem {
     private String value;
 
     public StyleItem(String name, String value) {
+
         this.name = name;
         this.value = value;
     }

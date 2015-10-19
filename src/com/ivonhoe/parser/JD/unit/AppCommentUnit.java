@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 /**
  * Comment unit show in JD android APP
  *
- * @author Fan.Yang.NB
+ * @author ivonhoe
  */
 
 public class AppCommentUnit implements Unit {

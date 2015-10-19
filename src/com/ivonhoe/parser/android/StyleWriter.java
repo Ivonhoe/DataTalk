@@ -4,7 +4,7 @@ import jxl.write.Label;
 import jxl.write.WritableSheet;
 import jxl.write.WriteException;
 import jxl.write.biff.RowsExceededException;
-import com.ivonhoe.parser.ExlWriter;
+import com.ivonhoe.parser.io.ExlWriter;
 import com.ivonhoe.parser.Unit;
 import com.ivonhoe.parser.android.unit.Style;
 import com.ivonhoe.parser.android.unit.StyleItem;

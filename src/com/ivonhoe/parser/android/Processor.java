@@ -1,6 +1,6 @@
 package com.ivonhoe.parser.android;
 
-import com.ivonhoe.parser.ExlWriter;
+import com.ivonhoe.parser.io.ExlWriter;
 import com.ivonhoe.parser.Unit;
 import com.ivonhoe.parser.android.unit.Style;
 

@@ -1,11 +1,13 @@
 package com.ivonhoe.parser.JD.unit;
 
+import com.ivonhoe.parser.Unit;
+
 /**
  * Comment Unit show in the JD web site
  * 
- * @author Fan.Yang.NB
+ * @author ivonhoe
  */
-public class WebCommentUnit {
+public class WebCommentUnit implements Unit{
 
     /*{
         "id":283469286,
